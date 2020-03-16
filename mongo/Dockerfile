@@ -1,6 +1,0 @@
-FROM mongo
-ENV MONGO_INITDB_ROOT_USERNAME root
-ENV MONGO_INITDB_ROOT_PASSWORD root
-EXPOSE 27017
-
-LABEL maintainer="alan_hac@outlook.com"
