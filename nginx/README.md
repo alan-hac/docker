@@ -1,4 +1,4 @@
-# RabbitMQ
+# NGINX
 
 Starting a NgINX server image:
 
